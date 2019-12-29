@@ -14,5 +14,6 @@
 		<module>../iCoreComponent</module>
 		<module>../iSecurityModel</module>
 		<module>../iSecurity</module>
+		<module>../iBusinessIntegration</module>
 	</modules>
 </project>
